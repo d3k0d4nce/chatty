@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chatty</string>
+    <string name="chats_title">Чаты</string>
+    <string name="select_chat">Выберите чат</string>
+    <string name="action_to_chats">К чатам</string>
+    <string name="action_retry">Повторить</string>
+    <string name="load_error">Не удалось загрузить</string>
+    <string name="chats_empty">Чатов пока нет</string>
+    <string name="messages_empty">Сообщений пока нет</string>
+    <string name="load_older">Загрузить ещё</string>
+    <string name="chat_beginning">Это начало чата</string>
+    <string name="message_image_description">Вложение</string>
+    <string name="image_description">Изображение</string>
+    <string name="close_image">Закрыть</string>
+</resources>
